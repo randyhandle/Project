@@ -1,6 +1,6 @@
 train : train
 val : val
 
-nc : 1
+nc : 3
 
-names : ["shoe"]
+names : ["shoe","belt","id_card"]
